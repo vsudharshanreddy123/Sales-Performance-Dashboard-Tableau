@@ -126,3 +126,12 @@ This project was created as part of my Tableau learning and interview preparatio
 **V. Sudharshan Reddy**
 
 Tableau | Data Visualization | Data Analytics
+
+
+
+
+
+
+## 📊 Dashboard Preview
+
+![Sales Performance Dashboard](./Screenshot%202026-08-26%20220406.png)
