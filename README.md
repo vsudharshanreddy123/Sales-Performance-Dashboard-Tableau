@@ -134,4 +134,4 @@ Tableau | Data Visualization | Data Analytics
 
 ## 📊 Dashboard Preview
 
-![Sales Performance Dashboard](./Screenshot%202026-08-26%20220406.png)
+![Sales Performance Dashboard](./Sales_Performance_Dashboard.png)
